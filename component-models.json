@@ -49,16 +49,8 @@
         "valueType": "string",
         "options": [
           {
-            "name": "Design 1",
-            "value": "design1"
-          },
-          {
-            "name": "Design 2",
-            "value": "design2"
-          },
-          {
-            "name": "Design 3",
-            "value": "design3"
+            "name": "Under Development",
+            "value": "underdevelopment"
           }
         ]
       }
