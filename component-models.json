@@ -43,25 +43,10 @@
         "label": "Description"
       },
       {
-        "component": "select",
+        "component": "text",
         "name": "design",
-        "value": "Under Development",
         "label": "Design",
-        "valueType": "string",
-        "options": [
-          {
-            "name": "Design 1",
-            "value": "design1"
-          },
-          {
-            "name": "Design 2",
-            "value": "design2"
-          },
-          {
-            "name": "Design 3",
-            "value": "design3"
-          }
-        ]
+        "value": "Under Development"
       }
     ]
   },
