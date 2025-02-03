@@ -45,7 +45,7 @@
       {
         "component": "select",
         "name": "design",
-        "value": "",
+        "value": "Under Development",
         "label": "Design",
         "valueType": "string",
         "options": [
